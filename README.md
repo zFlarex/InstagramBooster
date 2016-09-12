@@ -1,5 +1,5 @@
 # InstagramBooster
-A open-source Instagram account creator written in C#.
+An open-source Instagram account creator written in C#.
 
 ## Prerequisites
 * .NET Framework v4.5.2
