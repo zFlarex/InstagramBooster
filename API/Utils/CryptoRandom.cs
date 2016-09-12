@@ -1,4 +1,6 @@
-﻿using System;
+//Author: zFlarex <https://zflarex.pw>
+
+using System;
 using System.Security.Cryptography;
 
 namespace InstagramBooster.API.Utils
