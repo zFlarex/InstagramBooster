@@ -1,4 +1,6 @@
-﻿using System.Linq;
+//Author: zFlarex <https://zflarex.pw>
+
+using System.Linq;
 using System.Net.Http;
 using Newtonsoft.Json.Linq;
 using System.Threading.Tasks;
